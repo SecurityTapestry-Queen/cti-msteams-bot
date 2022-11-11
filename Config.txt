@@ -2,20 +2,20 @@
 graham cluley = 2022-11-11T11:49:29
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2022-11-10T18:11:10
-dark reading = 2022-11-11T19:52:00
-we live security = 2022-11-10T10:30:55
+dark reading = 2022-11-11T22:14:00
+we live security = 2022-11-11T16:00:03
 davinci forensics = 2022-11-09T07:03:12
 cisco = 2022-11-10T13:00:26
 information security magazine = 2022-11-11T18:00:00
 google = 2022-10-20T17:01:00
 trend micro = 2022-11-11T00:00:00
-bleeping computer = 2022-11-11T20:01:09
+bleeping computer = 2022-11-11T22:25:04
 proof point = 2022-11-03T12:34:53
 us-cert cisa = 2022-10-21T14:29:15
 fr-cert alertes = 2022-10-14T10:55:08
 fr-cert avis = 2022-10-14T13:24:36
 hacker news = 2022-11-11T14:26:00
-schneier on security = 2022-11-11T20:11:23
+schneier on security = 2022-11-11T22:18:54
 ncsc = 2022-11-11T00:00:00
 center of internet security = 2022-11-10T10:53:00
 binary defense = 2022-09-14T13:07:23
@@ -41,6 +41,11 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2022-11-11T17:07:34
 unit42 = 2022-11-10T14:00:11
 google tag = 2022-11-10T20:15:00
+cso online = 2022-11-11T10:00:00
+naked security = 2022-11-11T17:59:12
+jisa softech = 2022-11-11T17:48:08
+mcafee antivirus = 2022-11-10T11:57:05
+nstic blog = 2022-10-25T12:00:00
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
