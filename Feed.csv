@@ -7,7 +7,7 @@ http://feeds.feedburner.com/eset/blog,We Live Security
 https://davinciforensics.co.za/cybersecurity/feed/,DaVinci Forensics
 https://blogs.cisco.com/security/feed,Cisco
 https://www.infosecurity-magazine.com/rss/news/,Information Security Magazine
-# http://feeds.feedburner.com/GoogleOnlineSecurityBlog,Google
+http://feeds.feedburner.com/GoogleOnlineSecurityBlog,Google
 https://blog.google/threat-analysis-group/rss/,Google TAG
 http://feeds.trendmicro.com/TrendMicroResearch,Trend Micro
 https://www.bleepingcomputer.com/feed/,Bleeping Computer
@@ -37,5 +37,5 @@ https://www.enisa.europa.eu/publications/RSS,EU-ENISA Publications
 https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=8149516204242144484&board=MicrosoftSentinelBlog&size=25,Microsoft Sentinel
 https://research.nccgroup.com/category/threat-intelligence/feed/,NCC
 https://isc.sans.edu/rssfeed.xml,SANS
-# https://www.databreaches.net/feed/,DataBreaches
+https://www.databreaches.net/feed/,DataBreaches
 https://unit42.paloaltonetworks.com/feed/,Unit42
