@@ -2,13 +2,13 @@ name: Fetch-CTI
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   CTI:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 30
     environment: CI
     steps:
       - name: checkout the repo
@@ -24,7 +24,7 @@ jobs:
         env:
           MSTEAMS_WEBHOOK: ${{ secrets.MSTEAMS_WEBHOOK }} 
         run: |
-          python3 TeamsIntelBot.py -d -r -D
+          python3 TeamsIntelBot.py -d -r
       - name: save changes
         run: |
           git config --global user.email "bot-parser@users.noreply.github.com"
