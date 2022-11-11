@@ -38,13 +38,13 @@ sans = 2022-11-11T08:35:36
 version = 2022-10-16T13:33:42
 redcanary = 2022-11-09T13:58:50
 malpedia = 2022-09-20T15:01:28
-databreaches = 2022-11-11T17:07:34
-unit42 = 2022-11-10T14:00:11
-google tag = 2022-11-10T20:15:00
-cso online = 2022-11-11T10:00:00
-naked security = 2022-11-11T17:59:12
-jisa softech = 2022-11-11T17:48:08
-mcafee antivirus = 2022-11-10T11:57:05
+databreaches = 2022-11-10T17:07:34
+unit42 = 2022-11-09T14:00:11
+google tag = 2022-11-09T20:15:00
+cso online = 2022-11-10T10:00:00
+naked security = 2022-11-10T17:59:12
+jisa softech = 2022-11-10T17:48:08
+mcafee antivirus = 2022-11-09T11:57:05
 nstic blog = 2022-09-01T00:00:00
 
 [Ransomware]
