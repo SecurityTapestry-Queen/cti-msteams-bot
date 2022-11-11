@@ -45,7 +45,7 @@ cso online = 2022-11-11T10:00:00
 naked security = 2022-11-11T17:59:12
 jisa softech = 2022-11-11T17:48:08
 mcafee antivirus = 2022-11-10T11:57:05
-nstic blog = 2022-10-25T12:00:00
+nstic blog = 2022-09-01T00:00:00
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
