@@ -44,7 +44,7 @@ google tag = 2022-11-10T20:15:00
 cso online = 2022-11-11T10:00:00
 naked security = 2022-11-11T17:59:12
 jisa softech = 2022-11-11T17:48:08
-mcafee antivirus = 2022-11-10T11:57:05
+mcafee antivirus = 2022-11-11T13:31:27
 nstic blog = 2022-10-25T12:00:00
 
 [Ransomware]
