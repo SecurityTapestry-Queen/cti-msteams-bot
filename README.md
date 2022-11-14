@@ -4,7 +4,7 @@ TITB is a fork from [Threat Intelligence Discord Bot from vx-underground](https:
 
 > The vx-underground Threat Intelligence Discord Bot gets updates from various clearnet domains, ransomware threat actor domains This bot will check for updates in intervals of 1800 seconds.
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Version](https://img.shields.io/badge/version-2.3.0-blue.svg)  [![Twitter: JMousqueton](https://img.shields.io/twitter/follow/JMousqueton.svg?style=social)](https://twitter.com/JMousqueton) [![Last Run](https://github.com/JMousqueton/CTI-MSTeams-Bot/actions/workflows/fetchCTI.yml/badge.svg)](.github/workflows/fetchCTI.yml)  [![CodeQL](https://github.com/JMousqueton/CTI-MSTeams-Bot/actions/workflows/codeql-analysis.yml/badge.svg)](.github/workflows/codeql-analysis.yml) 
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Version](https://img.shields.io/badge/version-2.3.0-blue.svg)  [![Last Run](https://github.com/SecurityTapestry-Queen/cti-msteams-bot/actions/workflows/fetchCTI.yml/badge.svg)](.github/workflows/fetchCTI.yml)  [![CodeQL](https://github.com/SecurityTapestry-Queen/cti-msteams-bot/actions/workflows/codeql-analysis.yml/badge.svg)](.github/workflows/codeql-analysis.yml) 
 
 ## Description
 
@@ -17,33 +17,11 @@ Threat Intelligence Teams Bot gets updates from various clearnet domains and ran
 
 This bot will check for updates every 30 minutes. 
 
-The change I've made : 
-
-* GitHub-Action : see the [fetchCTI.yml](.github/workflows/fetchCTI.yml) file.
-* Feeds List is externalized from the source code to the file [Feed.csv](Feed.csv)
-* Use JSON lib to get ransomware attacks list from [Ransomwatch](https://ransomwatch.mousqueton.io)
-* Add an emoji in front of the MS Teams Card related to some sources 
-* Use only one MS Teams Channel 
-* Refactoring with best practices 
-* No need to add any entry in [Config.txt](Config.txt) (automaticaly add)
-* Check that python 3.10+ is present (needed for some functions)
-* Add a [requirements.txt](requirements.txt)
-* Add a [feedCheck.py](checkFeed.py) script to check the health of the feed from [Feed.csv](Feed.csv) file 
-* Add Options for command line [usage](#usage)
-* Check if a new version is available 
-* Add [new sources](#sources) 
-
-I've decided to remove the TelegramBot because it was not relevant for my needs. 
-
 ![](Screenshot.png)
 
 ## Installation
 
 Clone the repository or download the [latest release](https://github.com/JMousqueton/CTI-MSTeams-Bot/releases/latest) 
-
-```
-git clone https://github.com/JMousqueton/CTI-MSTeams-Bot
-```
 
 Install all the modules in ```requirements.txt```
 ```
@@ -85,14 +63,6 @@ Options:
   -r, --reminder  Enable monthly reminder of Feeds
 ```
 
-- For french user, I recommand using flags -d and -r 
-
-```python3 TeamIntelBot.py -r -d```
-
-- For other, only flag -r 
-
-```python3 TeamIntelBot.py -r```
-
 ### Proxy
 
 If you use a proxy don't forget to use the proxies variables : 
@@ -125,42 +95,3 @@ python3 checkFeed.py
 ✅ Microsoft Sentinel (Thu, 18 Aug 2022 08:31:51 PDT)
 ```
 
-## Adding or removing RSS Feeds to monitor
-All monitored RSS feeds are in [Feed.csv](Feed.csv) file. To add a new RSS feed simply append a new entry. e.g.
-
-In the ```Feed.csv``` file :
-```
-https://grahamcluley.com/feed/,Graham Cluley
-https://1337WebsiteIWannaFollow.com/feed/,1337Website
-```
-
-## Sources 
-
-I've added the following sources : 
-
-* 🇫🇷 FR-CERT Avis (aka [ANSSI](https://www.ssi.gouv.fr/)) : notifications from gov French CERT 
-* 🇫🇷 FR-CERT Alertes (aka [ANSSI](https://www.ssi.gouv.fr/)) : Alerts from gov French CERT 
-* [Leak-lookup](https://leak-lookup.com/) : Leak notification 
-* [Cyber-News](https://www.cyber-news.fr)
-* ATT CyberSecurity Blog 
-* 🇪🇺 ENSIA Publications 
-* NCC Group 
-* Microsoft Sentinel
-* SANS
-* [Red Flag Domains](https://red.flag.domains/) ⚠️ You shoudl use -d flag to enable this source dedicated to France 
-* [Google TAG](https://blog.google/threat-analysis-group/)  
-
-## ToDo 
-
-* ~~Create a flag to activate or not the Red Flag Domains source because it's only for french~~ (released in version 2.3)
-* ~~Disable line with # in [Feed.csv](Feed.csv)~~ (in version 2.4 not released yet)
-
-## Credit
-
-This was made by smelly__vx over a slow and boring weekend. We hope it provides some value to your channel and/or organization.
-
-Thanks to my fellow students from [🏴‍☠️ Ecole 2600](https://www.ecole2600.com) for the support and advice during nights 😛
-
-Thanks to the current users of this Bot who help me to improve it 
-
-Thanks to Olivier for the proxy documentation 🍻
