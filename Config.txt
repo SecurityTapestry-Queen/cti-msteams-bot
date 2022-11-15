@@ -2,7 +2,7 @@
 graham cluley = 2022-11-11T11:49:29
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2022-11-10T18:11:10
-dark reading = 2022-11-15T14:10:25
+dark reading = 2022-11-15T15:00:00
 we live security = 2022-11-14T10:30:11
 davinci forensics = 2022-11-09T07:03:12
 cisco = 2022-11-15T13:00:35
@@ -41,7 +41,7 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2022-11-15T13:02:43
 unit42 = 2022-11-14T14:00:58
 google tag = 2022-11-10T20:15:00
-cso online = 2022-11-15T10:00:00
+cso online = 2022-11-15T12:30:00
 naked security = 2022-11-14T16:24:19
 jisa softech = 2022-11-11T17:48:08
 mcafee antivirus = 2022-11-15T00:39:38
