@@ -9,7 +9,7 @@ cisco = 2022-11-15T13:00:35
 information security magazine = 2022-11-15T18:00:00
 google = 2022-11-02T17:00:00
 trend micro = 2022-11-11T00:00:00
-bleeping computer = 2022-11-15T19:04:44
+bleeping computer = 2022-11-15T22:24:49
 proof point = 2022-11-11T16:23:00
 us-cert cisa = 2022-10-21T14:29:15
 fr-cert alertes = 2022-10-14T10:55:08
@@ -41,7 +41,7 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2022-11-15T13:02:43
 unit42 = 2022-11-14T14:00:58
 google tag = 2022-11-10T20:15:00
-cso online = 2022-11-15T12:30:00
+cso online = 2022-11-15T21:42:00
 naked security = 2022-11-15T17:49:49
 jisa softech = 2022-11-11T17:48:08
 mcafee antivirus = 2022-11-15T00:39:38
@@ -124,6 +124,6 @@ royal = 2022-11-15 17:38:19.750942
 projectrelic = 2022-11-11 16:34:34.835578
 
 [Misc]
-redflagdomains = 2022-10-15
+redflagdomains = 2022-11-15
 reminder = 2022-10-16
 
