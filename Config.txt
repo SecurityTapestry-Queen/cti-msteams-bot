@@ -29,7 +29,7 @@ microsoft security = 2022-11-16T18:58:00
 recorded future = 2022-11-22T00:00:00
 sentinelone = 2022-11-21T14:00:53
 leak-lookup = 2022-11-15T13:00:03
-cyber-news = 2022-11-22T07:38:24
+cyber-news = 2022-11-22T12:04:13
 eu-enisa publications = 2022-07-27T10:00:00
 att = 2022-11-21T11:00:00
 microsoft sentinel = 2022-11-17T16:37:00
@@ -41,13 +41,13 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2022-11-21T18:38:32
 unit42 = 2022-11-21T11:00:27
 google tag = 2022-11-10T20:15:00
-cso online = 2022-11-21T15:02:00
+cso online = 2022-11-22T10:00:00
 naked security = 2022-11-21T17:02:42
 jisa softech = 2022-11-11T17:48:08
 mcafee antivirus = 2022-11-18T09:13:51
 nstic blog = 2022-10-25T12:00:00
 zeroday published advisories = 2022-11-21T06:00:00
-circl twitter feed = 2022-11-22T11:14:30
+circl twitter feed = 2022-11-22T12:32:37
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
