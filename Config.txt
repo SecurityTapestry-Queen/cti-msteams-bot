@@ -47,7 +47,7 @@ jisa softech = 2022-11-11T17:48:08
 mcafee antivirus = 2022-11-18T09:13:51
 nstic blog = 2022-10-25T12:00:00
 zeroday published advisories = 2022-11-21T06:00:00
-circl twitter feed = 2022-11-22T06:20:57
+circl twitter feed = 2022-11-22T07:16:37
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
