@@ -2,7 +2,7 @@
 graham cluley = 2022-11-18T14:17:07
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2022-11-18T02:30:26
-dark reading = 2022-11-22T14:08:40
+dark reading = 2022-11-22T15:00:00
 we live security = 2022-11-18T16:00:36
 davinci forensics = 2022-11-09T07:03:12
 cisco = 2022-11-22T13:00:36
@@ -38,7 +38,7 @@ sans = 2022-11-21T20:48:27
 version = 2022-10-16T13:33:42
 redcanary = 2022-11-17T16:00:22
 malpedia = 2022-09-20T15:01:28
-databreaches = 2022-11-22T13:06:59
+databreaches = 2022-11-22T15:05:34
 unit42 = 2022-11-21T11:00:27
 google tag = 2022-11-10T20:15:00
 cso online = 2022-11-22T10:00:00
@@ -47,7 +47,7 @@ jisa softech = 2022-11-11T17:48:08
 mcafee antivirus = 2022-11-18T09:13:51
 nstic blog = 2022-10-25T12:00:00
 zeroday published advisories = 2022-11-21T06:00:00
-circl twitter feed = 2022-11-22T14:17:55
+circl twitter feed = 2022-11-22T15:18:01
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
