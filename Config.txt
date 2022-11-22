@@ -2,7 +2,7 @@
 graham cluley = 2022-11-18T14:17:07
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2022-11-18T02:30:26
-dark reading = 2022-11-21T23:00:00
+dark reading = 2022-11-22T14:08:40
 we live security = 2022-11-18T16:00:36
 davinci forensics = 2022-11-09T07:03:12
 cisco = 2022-11-22T13:00:36
@@ -47,7 +47,7 @@ jisa softech = 2022-11-11T17:48:08
 mcafee antivirus = 2022-11-18T09:13:51
 nstic blog = 2022-10-25T12:00:00
 zeroday published advisories = 2022-11-21T06:00:00
-circl twitter feed = 2022-11-22T13:31:19
+circl twitter feed = 2022-11-22T14:17:55
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
