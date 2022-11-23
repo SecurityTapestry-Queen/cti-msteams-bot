@@ -26,7 +26,7 @@ modexp = 2022-08-22T01:00:00
 james forshaw = 2022-07-17T04:49:00
 adam chester = 2022-10-17T17:40:29
 microsoft security = 2022-11-16T18:58:00
-recorded future = 2022-11-22T00:00:00
+recorded future = 2022-11-23T00:00:00
 sentinelone = 2022-11-22T16:05:21
 leak-lookup = 2022-11-15T13:00:03
 cyber-news = 2022-11-22T12:04:13
@@ -41,13 +41,13 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2022-11-22T23:41:42
 unit42 = 2022-11-21T11:00:27
 google tag = 2022-11-10T20:15:00
-cso online = 2022-11-22T17:36:00
+cso online = 2022-11-23T10:00:00
 naked security = 2022-11-22T17:54:04
 jisa softech = 2022-11-11T17:48:08
 mcafee antivirus = 2022-11-22T21:44:52
 nstic blog = 2022-10-25T12:00:00
 zeroday published advisories = 2022-11-22T06:00:00
-circl twitter feed = 2022-11-23T11:13:57
+circl twitter feed = 2022-11-23T12:30:09
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
