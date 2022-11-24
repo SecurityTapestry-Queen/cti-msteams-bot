@@ -41,13 +41,13 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2022-11-23T22:16:45
 unit42 = 2022-11-21T11:00:27
 google tag = 2022-11-10T20:15:00
-cso online = 2022-11-23T18:37:00
+cso online = 2022-11-24T10:00:00
 naked security = 2022-11-23T17:58:19
 jisa softech = 2022-11-23T16:59:28
 mcafee antivirus = 2022-11-22T21:44:52
 nstic blog = 2022-10-25T12:00:00
 zeroday published advisories = 2022-11-23T06:00:00
-circl twitter feed = 2022-11-24T11:15:46
+circl twitter feed = 2022-11-24T12:30:28
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
