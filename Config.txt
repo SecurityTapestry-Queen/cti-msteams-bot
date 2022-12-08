@@ -2,14 +2,14 @@
 graham cluley = 2022-12-08T15:03:39
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2022-12-08T18:25:04
-dark reading = 2022-12-08T18:00:00
+dark reading = 2022-12-08T19:29:36
 we live security = 2022-12-07T10:30:28
 davinci forensics = 2022-11-09T07:03:12
 cisco = 2022-12-08T13:00:37
 information security magazine = 2022-12-08T18:00:00
 google = 2022-12-08T16:59:00
 trend micro = 2022-12-06T00:00:00
-bleeping computer = 2022-12-08T18:19:06
+bleeping computer = 2022-12-08T19:24:08
 proof point = 2022-12-02T13:42:48
 us-cert cisa = 2022-12-01T18:04:01
 fr-cert alertes = 2022-10-14T10:55:08
@@ -60,7 +60,7 @@ avoslocker = 2021-09-26 12:46:17.809549
 avaddon = 2021-09-09 23:46:54.365433
 xinglocker = 2021-10-26 13:56:17.766530
 ragnarlocker = 2022-11-25 15:09:12.761043
-clop = 2022-12-04 03:13:15.114582
+clop = 2022-12-08 19:42:40.559635
 revil = 2022-11-28 20:34:41.644515
 everest = 2022-11-23 17:19:29.427251
 ragnarok = 2021-12-30 10:10:45.033137
@@ -128,6 +128,6 @@ dataleak = 2022-12-02 09:45:25.796276
 monti = 2022-12-07 10:36:14.052252
 
 [Misc]
-redflagdomains = 2022-12-07
+redflagdomains = 2022-12-08
 reminder = 2022-11-17
 
