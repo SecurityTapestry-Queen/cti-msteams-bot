@@ -9,8 +9,8 @@ cisco = 2022-12-13T19:10:42
 information security magazine = 2022-12-13T18:02:00
 google = 2022-12-08T16:59:00
 trend micro = 2022-12-13T00:00:00
-bleeping computer = 2022-12-13T20:48:43
-proof point = 2022-12-11T22:14:52
+bleeping computer = 2022-12-13T21:24:20
+proof point = 2022-12-12T08:00:00
 us-cert cisa = 2022-12-01T18:04:01
 fr-cert alertes = 2022-10-14T10:55:08
 fr-cert avis = 2022-10-14T13:24:36
@@ -128,9 +128,9 @@ dataleak = 2022-12-02 09:45:25.796276
 monti = 2022-12-07 10:36:14.052252
 nokoyawa = 2022-12-09 23:16:12.242301
 hive = 2022-12-10 13:48:33.387761
-karakurt = 2022-12-11 15:57:19.557889
+karakurt = 2022-12-13 23:08:45.108328
 
 [Misc]
-redflagdomains = 2022-12-12
+redflagdomains = 2022-12-13
 reminder = 2022-11-17
 
