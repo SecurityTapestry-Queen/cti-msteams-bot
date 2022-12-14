@@ -1,7 +1,7 @@
 [Rss]
 graham cluley = 2022-12-12T17:46:24
 threatpost = 2022-08-31T12:57:48
-krebs on security = 2022-12-08T18:25:04
+krebs on security = 2022-12-13T23:54:21
 dark reading = 2022-12-13T22:18:27
 we live security = 2022-12-12T14:30:39
 davinci forensics = 2022-11-09T07:03:12
@@ -38,13 +38,13 @@ sans = 2022-12-13T18:31:55
 version = 2022-10-16T13:33:42
 redcanary = 2022-12-08T18:30:42
 malpedia = 2022-09-20T15:01:28
-databreaches = 2022-12-13T22:41:43
+databreaches = 2022-12-13T23:36:42
 unit42 = 2022-12-12T14:00:49
 google tag = 2022-12-07T16:00:00
 cso online = 2022-12-13T21:04:00
-naked security = 2022-12-13T17:58:30
+naked security = 2022-12-13T19:58:30
 jisa softech = 2022-11-23T16:59:28
-mcafee antivirus = 2022-12-12T18:39:03
+mcafee antivirus = 2022-12-13T17:47:55
 nstic blog = 2022-10-25T12:00:00
 zeroday published advisories = 2022-11-23T06:00:00
 circl twitter feed = 2022-12-13T10:23:09
