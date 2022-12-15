@@ -46,7 +46,7 @@ naked security = 2022-12-14T02:11:34
 jisa softech = 2022-11-23T16:59:28
 mcafee antivirus = 2022-12-14T13:11:51
 nstic blog = 2022-12-14T12:00:00
-zeroday published advisories = 2022-11-23T06:00:00
+zeroday published advisories = 2022-12-15T06:00:00
 circl twitter feed = 2022-12-14T09:52:38
 
 [Ransomware]
