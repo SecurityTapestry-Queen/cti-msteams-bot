@@ -132,5 +132,5 @@ karakurt = 2022-12-18 11:27:45.702629
 
 [Misc]
 redflagdomains = 2022-12-18
-reminder = 2022-11-17
+reminder = 2022-12-19
 
