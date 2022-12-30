@@ -38,7 +38,7 @@ sans = 2022-12-30T15:43:16
 version = 2022-10-16T13:33:42
 redcanary = 2022-12-22T17:53:55
 malpedia = 2022-09-20T15:01:28
-databreaches = 2022-12-30T19:17:00
+databreaches = 2022-12-30T21:54:32
 unit42 = 2022-12-27T14:00:05
 google tag = 2022-12-16T19:45:00
 cso online = 2022-12-30T12:09:00
@@ -132,6 +132,6 @@ karakurt = 2022-12-21 13:14:28.705671
 unsafe = 2022-12-21 12:45:06.962329
 
 [Misc]
-redflagdomains = 2022-12-29
+redflagdomains = 2022-12-30
 reminder = 2022-12-19
 
