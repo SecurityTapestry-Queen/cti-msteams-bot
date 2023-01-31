@@ -9,7 +9,7 @@ cisco = 2023-01-31T13:00:49
 information security magazine = 2023-01-31T18:00:00
 google = 2023-01-13T17:29:00
 trend micro = 2023-01-26T00:00:00
-bleeping computer = 2023-01-31T16:29:25
+bleeping computer = 2023-01-31T19:03:22
 proof point = 2023-01-27T12:44:18
 us-cert cisa = 2023-01-25T17:55:00
 fr-cert alertes = 2022-10-14T10:55:08
@@ -41,12 +41,12 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2023-01-31T16:42:52
 unit42 = 2023-01-31T14:00:26
 google tag = 2023-01-26T16:00:00
-cso online = 2023-01-31T14:29:00
+cso online = 2023-01-31T16:00:00
 naked security = 2023-01-31T11:35:30
 jisa softech = 2023-01-22T16:05:34
 mcafee antivirus = 2023-01-31T01:36:30
 nstic blog = 2023-01-27T12:00:00
-zeroday published advisories = 2023-01-20T06:00:00
+zeroday published advisories = 2023-01-31T06:00:00
 circl twitter feed = 2023-01-19T09:55:47
 
 [Ransomware]
