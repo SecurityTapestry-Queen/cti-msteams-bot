@@ -15,7 +15,7 @@ us-cert cisa = 2023-01-25T17:55:00
 fr-cert alertes = 2022-10-14T10:55:08
 fr-cert avis = 2022-10-14T13:24:36
 hacker news = 2023-02-03T15:36:00
-schneier on security = 2023-02-03T20:03:10
+schneier on security = 2023-02-03T22:02:47
 ncsc = 2122-12-17T00:00:00
 center of internet security = 2023-02-03T19:19:44
 binary defense = 2023-01-12T11:51:07
@@ -106,7 +106,7 @@ onyx = 2022-11-21 14:16:29.181128
 mindware = 2022-05-05 13:42:39.179439
 ransomhouse = 2023-01-14 21:32:35.299723
 cheers = 2022-09-14 11:00:11.961979
-lockbit3 = 2023-02-03 15:13:32.420711
+lockbit3 = 2023-02-03 21:26:29.979604
 yanluowang = 2022-08-10 16:55:19.472715
 0mega = 2023-01-09 19:24:13.277817
 bianlian = 2023-02-01 19:17:05.767291
@@ -133,6 +133,6 @@ unsafe = 2022-12-21 12:45:06.962329
 freecivilian = 2022-12-31 16:06:42.927121
 
 [Misc]
-redflagdomains = 2023-02-02
+redflagdomains = 2023-02-03
 reminder = 2023-01-20
 
