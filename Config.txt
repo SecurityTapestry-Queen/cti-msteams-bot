@@ -2,7 +2,7 @@
 graham cluley = 2023-03-06T11:46:59
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2023-03-03T01:33:06
-dark reading = 2023-03-07T20:40:24
+dark reading = 2023-03-07T21:48:00
 we live security = 2023-03-07T10:30:37
 davinci forensics = 2023-02-27T10:33:24
 cisco = 2023-02-10T09:00:00
@@ -44,7 +44,7 @@ google tag = 2023-03-01T20:00:00
 cso online = 2023-03-07T15:01:00
 naked security = 2023-03-07T17:59:14
 jisa softech = 2023-01-22T16:05:34
-mcafee antivirus = 2023-03-03T12:38:17
+mcafee antivirus = 2023-03-07T14:17:39
 nstic blog = 2023-02-01T12:00:00
 zeroday published advisories = 2023-03-07T06:00:00
 circl twitter feed = 2023-02-23T10:55:57
