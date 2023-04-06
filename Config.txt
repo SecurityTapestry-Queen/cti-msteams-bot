@@ -41,7 +41,7 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2023-04-05T19:10:01
 unit42 = 2023-04-05T10:00:53
 google tag = 2023-04-05T12:00:00
-cso online = 2023-04-06T10:51:00
+cso online = 2023-04-06T18:55:00
 naked security = 2023-04-06T14:57:50
 jisa softech = 2023-03-31T16:41:48
 mcafee antivirus = 2023-04-06T14:34:50
@@ -140,6 +140,6 @@ abyss = 2023-03-30 07:12:54.041671
 moneymessage = 2023-04-05 21:15:02.874913
 
 [Misc]
-redflagdomains = 2023-04-05
+redflagdomains = 2023-04-06
 reminder = 2023-03-25
 
