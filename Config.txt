@@ -1,7 +1,7 @@
 [Rss]
 graham cluley = 2023-04-06T17:09:22
 threatpost = 2022-08-31T12:57:48
-krebs on security = 2023-04-04T21:04:11
+krebs on security = 2023-04-12T00:06:51
 dark reading = 2023-04-11T22:09:00
 we live security = 2023-04-11T09:30:14
 davinci forensics = 2023-03-12T10:35:01
@@ -38,7 +38,7 @@ sans = 2023-04-11T17:45:46
 version = 2022-10-16T13:33:42
 redcanary = 2023-03-30T14:24:41
 malpedia = 2022-09-20T15:01:28
-databreaches = 2023-04-11T13:16:50
+databreaches = 2023-04-12T00:25:25
 unit42 = 2023-04-05T10:00:53
 google tag = 2023-04-05T12:00:00
 cso online = 2023-04-11T18:09:00
