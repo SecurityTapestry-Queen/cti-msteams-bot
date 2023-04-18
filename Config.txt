@@ -2,14 +2,14 @@
 graham cluley = 2023-04-18T14:28:17
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2023-04-14T20:27:56
-dark reading = 2023-04-18T18:28:00
+dark reading = 2023-04-18T19:23:00
 we live security = 2023-04-14T11:00:23
 davinci forensics = 2023-03-12T10:35:01
 cisco = 2023-02-10T09:00:00
 information security magazine = 2023-04-18T16:30:00
 google = 2023-04-18T16:00:00
 trend micro = 2023-04-18T00:00:00
-bleeping computer = 2023-04-18T16:00:24
+bleeping computer = 2023-04-18T20:03:42
 proof point = 2023-04-14T14:44:06
 us-cert cisa = 2023-04-17T20:32:46
 fr-cert alertes = 2022-10-14T10:55:08
@@ -41,7 +41,7 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2023-04-18T17:04:23
 unit42 = 2023-04-18T10:00:42
 google tag = 2023-04-05T12:00:00
-cso online = 2023-04-18T16:21:00
+cso online = 2023-04-18T17:15:00
 naked security = 2023-04-18T16:56:03
 jisa softech = 2023-04-12T17:13:19
 mcafee antivirus = 2023-04-18T13:41:04
@@ -140,6 +140,6 @@ abyss = 2023-04-18 09:09:16.429587
 moneymessage = 2023-04-08 09:11:30.477244
 
 [Misc]
-redflagdomains = 2023-04-17
+redflagdomains = 2023-04-18
 reminder = 2023-03-25
 
