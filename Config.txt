@@ -14,7 +14,7 @@ proof point = 2023-04-20T12:55:08
 us-cert cisa = 2023-04-17T20:32:46
 fr-cert alertes = 2022-10-14T10:55:08
 fr-cert avis = 2022-10-14T13:24:36
-hacker news = 2023-04-24T11:55:00
+hacker news = 2023-04-24T14:00:00
 schneier on security = 2023-04-24T10:39:33
 ncsc = 2122-12-17T00:00:00
 center of internet security = 2023-04-22T03:03:02
@@ -46,7 +46,7 @@ naked security = 2023-04-21T17:58:25
 jisa softech = 2023-04-12T17:13:19
 mcafee antivirus = 2023-04-21T01:27:34
 nstic blog = 2023-04-20T12:00:00
-zeroday published advisories = 2023-04-14T05:00:00
+zeroday published advisories = 2023-04-24T05:00:00
 circl twitter feed = 2023-03-30T19:21:07
 
 [Ransomware]
@@ -106,7 +106,7 @@ onyx = 2022-11-21 14:16:29.181128
 mindware = 2022-05-05 13:42:39.179439
 ransomhouse = 2023-04-03 03:49:09.406335
 cheers = 2022-09-14 11:00:11.961979
-lockbit3 = 2023-04-24 11:10:46.288540
+lockbit3 = 2023-04-24 15:06:13.890578
 yanluowang = 2022-08-10 16:55:19.472715
 0mega = 2023-02-12 02:46:50.545309
 bianlian = 2023-04-21 19:19:07.595121
