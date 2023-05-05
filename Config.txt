@@ -2,14 +2,14 @@
 graham cluley = 2023-05-05T16:12:13
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2023-05-05T01:50:08
-dark reading = 2023-05-05T18:53:00
+dark reading = 2023-05-05T20:58:00
 we live security = 2023-05-04T09:30:35
 davinci forensics = 2023-03-12T10:35:01
 cisco = 2023-02-10T09:00:00
 information security magazine = 2023-05-05T16:30:00
 google = 2023-05-05T16:00:00
 trend micro = 2023-05-04T00:00:00
-bleeping computer = 2023-05-05T20:07:59
+bleeping computer = 2023-05-05T21:05:10
 proof point = 2023-04-25T10:18:54
 us-cert cisa = 2023-04-17T20:32:46
 fr-cert alertes = 2022-10-14T10:55:08
@@ -34,7 +34,7 @@ eu-enisa publications = 2023-03-20T23:00:00
 att = 2023-05-04T10:00:00
 microsoft sentinel = 2023-05-02T23:27:09
 ncc = 2023-04-05T15:40:31
-sans = 2023-05-05T02:05:02
+sans = 2023-05-05T17:00:59
 version = 2022-10-16T13:33:42
 redcanary = 2023-05-03T16:11:52
 malpedia = 2022-09-20T15:01:28
@@ -144,6 +144,6 @@ trigona = 2023-05-04 17:27:33.366183
 cryptnet = 2023-04-19 20:00:01.214643
 
 [Misc]
-redflagdomains = 2023-05-04
+redflagdomains = 2023-05-05
 reminder = 2023-04-26
 
