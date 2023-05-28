@@ -148,5 +148,5 @@ ragroup = 2023-05-06 12:51:15.248793
 
 [Misc]
 redflagdomains = 2023-05-27
-reminder = 2023-04-26
+reminder = 2023-05-28
 
