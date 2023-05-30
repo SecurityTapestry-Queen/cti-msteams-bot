@@ -40,3 +40,9 @@ https://isc.sans.edu/rssfeed.xml,SANS
 # https://www.databreaches.net/feed/,DataBreaches
 https://unit42.paloaltonetworks.com/feed/,Unit42
 https://api.msrc.microsoft.com/update-guide/rss,MSRC Security Update
+https://www.csoonline.com/in/index.rss,CSO Online
+https://nakedsecurity.sophos.com/feed/,Naked Security
+https://www.jisasoftech.com/feed/,Jisa Softech
+https://www.mcafee.com/blogs/feed/,McAfee Antivirus
+https://www.nist.gov/blogs/cybersecurity-insights/rss.xml,NSTIC Blog
+https://www.zerodayinitiative.com/rss/published/,ZeroDay Published advisories
