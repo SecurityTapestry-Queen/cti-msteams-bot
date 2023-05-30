@@ -54,7 +54,7 @@ def Send_Teams(webhook_url:str, content:str, title:str, color:str="000000") -> i
 # ---------------------------------------------------------------------------
 def GetRansomwareUpdates():
     
-    Data = requests.get("https://raw.githubusercontent.com/jmousqueton/ransomwatch/main/posts.json")
+    Data = requests.get("https://data.ransomware.live/posts.json")
         
     for Entries in Data.json():
 
