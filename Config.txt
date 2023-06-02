@@ -2,7 +2,7 @@
 graham cluley = 2023-06-01T16:47:22
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2023-06-01T16:15:34
-dark reading = 2023-06-02T19:21:00
+dark reading = 2023-06-02T20:39:00
 we live security = 2023-06-01T09:30:02
 davinci forensics = 2023-05-16T08:18:34
 cisco = 2023-02-10T09:00:00
@@ -41,7 +41,7 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2023-05-30T18:45:37
 unit42 = 2023-06-02T13:00:57
 google tag = 2023-05-30T20:00:00
-cso online = 2023-06-02T14:26:00
+cso online = 2023-06-02T20:50:00
 naked security = 2023-06-02T13:56:58
 jisa softech = 2023-05-26T13:24:16
 mcafee antivirus = 2023-06-01T18:22:58
@@ -151,6 +151,6 @@ malas = 2023-05-18 11:29:55.649054
 darkrace = 2023-06-02 02:51:48.429003
 
 [Misc]
-redflagdomains = 2023-06-01
+redflagdomains = 2023-06-02
 reminder = 2023-05-28
 
