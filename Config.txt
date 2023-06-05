@@ -14,7 +14,7 @@ proof point = 2023-05-29T16:34:23
 us-cert cisa = 2023-05-23T18:06:33
 fr-cert alertes = 2023-03-31T08:35:01
 fr-cert avis = 2023-06-02T08:19:04
-hacker news = 2023-06-03T08:20:00
+hacker news = 2023-06-05T04:48:00
 schneier on security = 2023-06-02T21:13:19
 ncsc = 2122-12-17T00:00:00
 center of internet security = 2023-06-02T11:57:09
@@ -148,7 +148,7 @@ rancoz = 2023-05-05 11:23:39.989801
 ragroup = 2023-05-30 07:40:53.721100
 malas = 2023-05-18 11:29:55.649054
 8base = 2023-05-26 14:53:00.887250
-darkrace = 2023-06-04 07:51:07.901763
+darkrace = 2023-06-05 05:50:30.937145
 medusaiocker = 2023-06-03 08:56:09.829572
 
 [Misc]
