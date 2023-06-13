@@ -6,15 +6,15 @@ dark reading = 2023-06-13T14:00:00
 we live security = 2023-06-09T12:30:02
 davinci forensics = 2023-06-08T06:36:35
 cisco = 2023-02-10T09:00:00
-information security magazine = 2023-06-13T13:00:00
+information security magazine = 2023-06-13T16:00:00
 google = 2023-05-26T21:55:00
 trend micro = 2023-06-09T00:00:00
-bleeping computer = 2023-06-13T14:52:14
+bleeping computer = 2023-06-13T16:02:58
 proof point = 2023-05-29T16:34:23
 us-cert cisa = 2023-06-06T20:58:32
 fr-cert alertes = 2023-06-13T12:18:53
 fr-cert avis = 2023-06-13T13:22:08
-hacker news = 2023-06-13T13:53:00
+hacker news = 2023-06-13T15:31:00
 schneier on security = 2023-06-13T11:03:38
 ncsc = 2122-12-17T00:00:00
 center of internet security = 2023-06-12T16:16:31
@@ -42,13 +42,13 @@ databreaches = 2023-05-30T18:45:37
 unit42 = 2023-06-13T13:00:13
 google tag = 2023-05-30T20:00:00
 cso online = 2023-06-13T13:00:00
-naked security = 2023-06-12T16:58:27
+naked security = 2023-06-12T19:58:27
 jisa softech = 2023-05-26T13:24:16
 mcafee antivirus = 2023-06-12T13:15:35
 nstic blog = 2023-05-22T12:00:00
 zeroday published advisories = 2023-06-08T05:00:00
 circl twitter feed = 2023-03-30T19:21:07
-msrc security update = 2023-06-06T22:35:45
+msrc security update = 2023-06-13T07:00:00
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
@@ -147,7 +147,7 @@ akira = 2023-06-09 17:54:17.444812
 rancoz = 2023-05-05 11:23:39.989801
 ragroup = 2023-05-30 07:40:53.721100
 malas = 2023-05-18 11:29:55.649054
-8base = 2023-06-12 04:53:12.325839
+8base = 2023-06-13 15:56:48.002528
 darkrace = 2023-06-09 10:53:33.531706
 medusaiocker = 2023-06-03 08:56:09.829572
 rhysida = 2023-06-12 06:58:53.597061
@@ -156,6 +156,6 @@ blacksuit = 2023-06-12 15:07:09.146603
 noescape = 2023-06-12 15:37:59.648631
 
 [Misc]
-redflagdomains = 2023-06-12
+redflagdomains = 2023-06-13
 reminder = 2023-05-28
 
