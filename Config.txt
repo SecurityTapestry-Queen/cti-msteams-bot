@@ -2,7 +2,7 @@
 graham cluley = 2023-07-12T16:30:20
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2023-07-11T22:55:07
-dark reading = 2023-07-12T19:46:00
+dark reading = 2023-07-12T20:27:00
 we live security = 2023-07-12T09:30:13
 davinci forensics = 2023-06-08T06:36:35
 cisco = 2023-02-10T09:00:00
@@ -53,7 +53,7 @@ msrc security update = 2023-07-12T07:00:00
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
 lockbit2 = 2022-08-06 20:48:04.576723
-arvinclub = 2022-04-21 17:36:07.558909
+arvinclub = 2023-07-12 21:04:14.2344
 quantum = 2022-12-09 04:22:35.604272
 alphv = 2023-07-12 13:59:32.456521
 lorenz = 2023-04-05 13:41:38.687925
@@ -157,6 +157,6 @@ noescape = 2023-07-12 17:06:55.621099
 cyclops = 2023-07-01 15:26:29.969589
 
 [Misc]
-redflagdomains = 2023-07-11
+redflagdomains = 2023-07-12
 reminder = 2023-06-29
 
