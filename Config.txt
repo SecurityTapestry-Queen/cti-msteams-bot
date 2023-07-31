@@ -159,5 +159,5 @@ cactus = 2023-07-20 12:50:08.480422
 
 [Misc]
 redflagdomains = 2023-07-30
-reminder = 2023-06-29
+reminder = 2023-07-31
 
