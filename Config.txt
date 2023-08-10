@@ -1,8 +1,8 @@
 [Rss]
-graham cluley = 2023-08-10T00:49:39
+graham cluley = 2023-08-10T12:02:38
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2023-08-09T02:22:57
-dark reading = 2023-08-10T09:30:00
+dark reading = 2023-08-10T12:00:00
 we live security = 2023-07-19T09:30:16
 davinci forensics = 2023-06-08T06:36:35
 cisco = 2023-02-10T09:00:00
@@ -42,7 +42,7 @@ databreaches = 2023-05-30T18:45:37
 unit42 = 2023-08-01T13:00:47
 google tag = 2023-07-31T23:45:00
 cso online = 2023-06-27T19:41:00
-naked security = 2023-08-09T18:34:44
+naked security = 2023-08-09T20:34:44
 jisa softech = 2023-08-07T17:22:48
 mcafee antivirus = 2023-08-09T09:37:20
 nstic blog = 2023-07-18T12:00:00
