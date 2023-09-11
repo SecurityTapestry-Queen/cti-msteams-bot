@@ -9,7 +9,7 @@ cisco = 2023-09-01T12:00:57
 information security magazine = 2023-09-11T16:30:00
 google = 2023-05-26T21:55:00
 trend micro = 2023-09-08T00:00:00
-bleeping computer = 2023-09-11T16:21:57
+bleeping computer = 2023-09-11T18:54:41
 proof point = 2023-09-07T08:31:31
 us-cert cisa = 2023-09-06T17:03:37
 fr-cert alertes = 2023-07-26T09:01:39
@@ -17,7 +17,7 @@ fr-cert avis = 2023-09-11T09:34:58
 hacker news = 2023-09-11T14:22:00
 schneier on security = 2023-09-11T11:04:44
 ncsc = 2122-12-17T00:00:00
-center of internet security = 2023-09-07T20:27:33
+center of internet security = 2023-09-11T17:53:21
 binary defense = 2023-08-23T13:00:00
 securelist = 2023-09-11T10:00:26
 checkpoint research = 2023-09-11T16:34:26
@@ -107,7 +107,7 @@ onyx = 2022-11-21 14:16:29.181128
 mindware = 2022-05-05 13:42:39.179439
 ransomhouse = 2023-09-08 22:14:25.343164
 cheers = 2022-09-14 11:00:11.961979
-lockbit3 = 2023-09-11 12:57:23.778882
+lockbit3 = 2023-09-11 19:00:35.507387
 yanluowang = 2022-08-10 16:55:19.472715
 0mega = 2023-02-12 02:46:50.545309
 bianlian = 2023-09-11 15:55:32.576949
@@ -163,6 +163,6 @@ ransomed = 2023-09-09 15:07:24.335880
 cloak = 2023-08-24 07:42:45.735883
 
 [Misc]
-redflagdomains = 2023-09-10
+redflagdomains = 2023-09-11
 reminder = 2023-09-01
 
