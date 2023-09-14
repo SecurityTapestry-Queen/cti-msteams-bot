@@ -2,7 +2,7 @@
 graham cluley = 2023-09-14T15:09:25
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2023-09-14T00:22:05
-dark reading = 2023-09-14T19:01:25
+dark reading = 2023-09-14T22:05:00
 we live security = 2023-07-19T09:30:16
 davinci forensics = 2023-08-23T09:33:51
 cisco = 2023-09-01T12:00:57
@@ -44,7 +44,7 @@ google tag = 2023-09-08T18:30:00
 cso online = 2023-06-27T19:41:00
 naked security = 2023-08-29T16:51:14
 jisa softech = 2023-08-11T18:10:48
-mcafee antivirus = 2023-09-13T13:53:53
+mcafee antivirus = 2023-09-14T07:01:45
 nstic blog = 2023-09-11T12:00:00
 zeroday published advisories = 2023-09-12T05:00:00
 circl twitter feed = 2023-03-30T19:21:07
@@ -162,6 +162,7 @@ metaencryptor = 2023-08-16 20:54:32.211428
 ransomed = 2023-09-09 15:07:24.335880
 cloak = 2023-08-24 07:42:45.735883
 cyphbit = 2023-09-14 17:33:42.981183
+threeam = 2023-09-14 21:33:44.866396
 
 [Misc]
 redflagdomains = 2023-09-14
