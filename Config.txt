@@ -29,7 +29,7 @@ microsoft security = 2023-09-18T07:00:00
 recorded future = 2023-09-19T00:00:00
 sentinelone = 2023-09-22T13:00:31
 leak-lookup = 2023-09-12T13:00:03
-cyber-news = 2023-09-24T09:13:15
+cyber-news = 2023-09-24T19:41:23
 eu-enisa publications = 2023-06-07T13:00:00
 att = 2023-09-21T10:00:00
 microsoft sentinel = 2023-09-21T22:02:49
@@ -153,7 +153,7 @@ medusaiocker = 2023-06-03 08:56:09.829572
 rhysida = 2023-09-23 02:46:57.089931
 la_piovra = 2023-06-10 16:58:28.721400
 blacksuit = 2023-09-13 18:59:16.052527
-noescape = 2023-09-23 09:58:30.843126
+noescape = 2023-09-24 19:15:26.081750
 cyclops = 2023-07-26 21:01:35.861410
 cactus = 2023-09-21 10:06:25.585648
 knight = 2023-09-19 04:04:05.921976
@@ -167,6 +167,6 @@ cryptbb = 2023-09-15 22:33:41.705485
 ciphbit = 2023-09-16 17:33:53.301161
 
 [Misc]
-redflagdomains = 2023-09-23
+redflagdomains = 2023-09-24
 reminder = 2023-09-01
 
