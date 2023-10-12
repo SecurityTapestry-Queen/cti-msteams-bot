@@ -48,7 +48,7 @@ mcafee antivirus = 2023-10-05T13:09:07
 nstic blog = 2023-10-10T12:00:00
 zeroday published advisories = 2023-10-11T05:00:00
 circl twitter feed = 2023-03-30T19:21:07
-msrc security update = 2023-10-11T07:00:00
+msrc security update = 2023-10-12T07:00:00
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
