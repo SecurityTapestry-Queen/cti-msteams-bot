@@ -2,7 +2,7 @@
 graham cluley = 2023-10-19T16:03:11
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2023-10-20T18:39:23
-dark reading = 2023-10-20T18:48:15
+dark reading = 2023-10-20T20:09:00
 we live security = 2023-07-19T09:30:16
 davinci forensics = 2023-09-30T17:59:48
 cisco = 2023-09-01T12:00:57
@@ -48,7 +48,7 @@ mcafee antivirus = 2023-10-12T19:34:06
 nstic blog = 2023-10-18T12:00:00
 zeroday published advisories = 2023-10-19T05:00:00
 circl twitter feed = 2023-03-30T19:21:07
-msrc security update = 2023-10-16T07:00:00
+msrc security update = 2023-10-20T07:00:00
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
@@ -159,7 +159,7 @@ cactus = 2023-10-16 19:06:19.679832
 knight = 2023-10-13 11:38:42.264085
 incransom = 2023-10-17 05:34:11.640316
 metaencryptor = 2023-09-29 16:22:15.781497
-ransomed = 2023-10-16 17:33:32.905168
+ransomed = 2023-10-20 19:16:50.124292
 cloak = 2023-08-24 07:42:45.735883
 cyphbit = 2023-09-16 17:33:53.301161
 threeam = 2023-09-28 13:18:46.450198
@@ -169,6 +169,6 @@ losttrust = 2023-09-26 11:10:43.854110
 hunter = 2023-10-20 17:07:42.212720
 
 [Misc]
-redflagdomains = 2023-10-19
+redflagdomains = 2023-10-20
 reminder = 2023-10-03
 
