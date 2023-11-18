@@ -171,6 +171,6 @@ hunters = 2023-11-15 12:55:15.413005
 alphv2 = 2023-10-21 14:28:46.418119
 
 [Misc]
-redflagdomains = 2023-11-17
+redflagdomains = 2023-11-18
 reminder = 2023-11-04
 
