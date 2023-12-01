@@ -172,6 +172,6 @@ alphv2 = 2023-10-21 14:28:46.418119
 meow = 2023-12-01 11:32:03.658412
 
 [Misc]
-redflagdomains = 2023-11-30
+redflagdomains = 2023-12-01
 reminder = 2023-11-04
 
