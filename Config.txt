@@ -9,7 +9,7 @@ cisco = 2023-09-01T12:00:57
 information security magazine = 2024-01-03T15:00:00
 google = 2023-05-26T21:55:00
 trend micro = 2023-12-15T00:00:00
-bleeping computer = 2024-01-03T17:55:05
+bleeping computer = 2024-01-03T19:44:22
 proof point = 2023-12-29T14:34:43
 us-cert cisa = 2023-12-19T14:31:04
 fr-cert alertes = 2023-12-13T17:08:21
@@ -180,6 +180,6 @@ ranstreet = 2023-12-21 00:08:22.617850
 malekteam = 2023-12-24 17:38:31.349662
 
 [Misc]
-redflagdomains = 2024-01-02
+redflagdomains = 2024-01-03
 reminder = 2023-12-06
 
