@@ -6,15 +6,15 @@ dark reading = 2027-03-26T22:00:00
 we live security = 2023-07-19T09:30:16
 davinci forensics = 2024-01-02T07:28:22
 cisco = 2023-09-01T12:00:57
-information security magazine = 2024-01-09T16:00:00
+information security magazine = 2024-01-09T16:45:00
 google = 2023-05-26T21:55:00
 trend micro = 2024-01-09T00:00:00
-bleeping computer = 2024-01-09T14:48:59
+bleeping computer = 2024-01-09T16:46:23
 proof point = 2023-12-29T14:34:43
 us-cert cisa = 2023-12-19T14:31:04
 fr-cert alertes = 2023-12-13T17:08:21
 fr-cert avis = 2024-01-09T13:34:31
-hacker news = 2024-01-09T13:45:00
+hacker news = 2024-01-09T16:01:00
 schneier on security = 2024-01-09T12:03:11
 ncsc = 2122-12-17T00:00:00
 center of internet security = 2024-01-03T16:23:34
@@ -48,7 +48,7 @@ mcafee antivirus = 2024-01-09T08:24:44
 nstic blog = 2023-12-12T12:00:00
 zeroday published advisories = 2024-01-09T06:00:00
 circl twitter feed = 2023-03-30T19:21:07
-msrc security update = 2024-01-05T17:08:32
+msrc security update = 2024-01-09T08:00:00
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
