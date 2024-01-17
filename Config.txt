@@ -182,6 +182,6 @@ noname = 2024-01-16 20:58:52.036534
 insane = 2024-01-17 05:45:04.181045
 
 [Misc]
-redflagdomains = 2024-01-16
+redflagdomains = 2024-01-17
 reminder = 2024-01-07
 
