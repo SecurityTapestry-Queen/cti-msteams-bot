@@ -1,5 +1,5 @@
 [Rss]
-graham cluley = 2024-02-02T16:00:37
+graham cluley = 2024-02-08T00:01:30
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2024-02-07T17:10:18
 dark reading = 2027-03-26T22:00:00
@@ -185,5 +185,5 @@ mydata = 2024-01-26 15:01:53.810037
 
 [Misc]
 redflagdomains = 2024-02-07
-reminder = 2024-01-07
+reminder = 2024-02-08
 
