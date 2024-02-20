@@ -25,7 +25,7 @@ virusbulletin = 2024-02-14T10:30:00
 modexp = 2024-02-13T20:30:00
 james forshaw = 2024-02-09T09:10:00
 adam chester = 2023-10-04T23:01:46
-microsoft security = 2024-02-15T08:00:00
+microsoft security = 2024-02-20T08:00:00
 recorded future = 2024-02-17T00:00:00
 sentinelone = 2024-02-16T14:00:54
 leak-lookup = 2024-01-31T14:00:27
@@ -186,6 +186,6 @@ ransomhub = 2024-02-10 20:10:13.609178
 trisec = 2024-02-19 06:11:47.754030
 
 [Misc]
-redflagdomains = 2024-02-19
+redflagdomains = 2024-02-20
 reminder = 2024-02-08
 
