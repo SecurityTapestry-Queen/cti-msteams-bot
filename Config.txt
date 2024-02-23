@@ -15,7 +15,7 @@ us-cert cisa = 2024-02-14T20:19:25
 fr-cert alertes = 2024-02-15T16:32:41
 fr-cert avis = 2024-02-23T13:13:25
 hacker news = 2024-02-23T17:08:00
-schneier on security = 2024-02-23T16:14:27
+schneier on security = 2024-02-23T22:04:28
 ncsc = 2122-12-17T00:00:00
 center of internet security = 2024-02-23T12:48:36
 binary defense = 2024-02-20T14:00:00
@@ -48,7 +48,7 @@ mcafee antivirus = 2024-02-23T17:06:30
 nstic blog = 2024-02-14T12:00:00
 zeroday published advisories = 2024-02-23T06:00:00
 circl twitter feed = 2023-03-30T19:21:07
-msrc security update = 2024-02-20T08:00:00
+msrc security update = 2024-02-23T18:57:31
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
