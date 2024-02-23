@@ -1,5 +1,5 @@
 [Rss]
-graham cluley = 2024-02-23T13:51:41
+graham cluley = 2024-02-23T15:32:33
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2024-02-22T13:27:47
 dark reading = 2027-03-26T22:00:00
@@ -44,7 +44,7 @@ google tag = 2024-02-06T10:00:00
 cso online = 2023-06-27T19:41:00
 naked security = 2023-09-26T10:00:12
 jisa softech = 2024-01-26T11:26:09
-mcafee antivirus = 2024-02-22T13:47:26
+mcafee antivirus = 2024-02-23T17:06:30
 nstic blog = 2024-02-14T12:00:00
 zeroday published advisories = 2024-02-21T06:00:00
 circl twitter feed = 2023-03-30T19:21:07
