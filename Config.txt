@@ -1,7 +1,7 @@
 [Rss]
 graham cluley = 2024-03-14T14:01:30
 threatpost = 2022-08-31T12:57:48
-krebs on security = 2024-03-12T20:36:33
+krebs on security = 2024-03-14T21:13:38
 dark reading = 2027-03-26T22:00:00
 we live security = 2023-07-19T09:30:16
 davinci forensics = 2024-02-24T08:31:03
@@ -48,7 +48,7 @@ mcafee antivirus = 2024-03-14T16:42:32
 nstic blog = 2024-02-28T12:00:00
 zeroday published advisories = 2024-03-13T05:00:00
 circl twitter feed = 2023-03-30T19:21:07
-msrc security update = 2024-03-12T07:00:00
+msrc security update = 2024-03-14T20:14:06
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
