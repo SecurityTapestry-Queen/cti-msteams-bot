@@ -15,7 +15,7 @@ us-cert cisa = 2024-02-26T14:51:34
 fr-cert alertes = 2024-02-15T16:32:41
 fr-cert avis = 2024-03-15T13:21:35
 hacker news = 2024-03-15T17:46:00
-schneier on security = 2024-03-15T11:05:41
+schneier on security = 2024-03-15T21:08:32
 ncsc = 2122-12-17T00:00:00
 center of internet security = 2024-03-12T21:07:20
 binary defense = 2024-03-13T14:00:00
@@ -190,6 +190,6 @@ blackout = 2024-02-26 22:35:02.607800
 donex = 2024-03-08 06:49:44.007152
 
 [Misc]
-redflagdomains = 2024-03-14
+redflagdomains = 2024-03-15
 reminder = 2024-03-11
 
