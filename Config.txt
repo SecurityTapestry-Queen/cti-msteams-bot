@@ -9,7 +9,7 @@ cisco = 2024-03-20T12:00:45
 information security magazine = 2024-03-20T17:00:00
 google = 2023-05-26T21:55:00
 trend micro = 2024-03-20T00:00:00
-bleeping computer = 2024-03-20T17:08:58
+bleeping computer = 2024-03-20T18:52:43
 proof point = 2024-03-19T18:41:32
 us-cert cisa = 2024-02-26T14:51:34
 fr-cert alertes = 2024-02-15T16:32:41
@@ -48,7 +48,7 @@ mcafee antivirus = 2024-03-20T13:32:08
 nstic blog = 2024-02-28T12:00:00
 zeroday published advisories = 2024-03-13T05:00:00
 circl twitter feed = 2023-03-30T19:21:07
-msrc security update = 2024-03-15T07:00:00
+msrc security update = 2024-03-20T07:00:00
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
