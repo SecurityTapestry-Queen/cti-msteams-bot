@@ -43,12 +43,12 @@ unit42 = 2024-04-12T17:00:40
 google tag = 2024-03-27T13:00:00
 cso online = 2023-06-27T19:41:00
 naked security = 2023-09-26T10:00:12
-jisa softech = 2024-04-15T17:58:25
+jisa softech = 2024-04-19T16:07:54
 mcafee antivirus = 2024-04-17T18:19:09
 nstic blog = 2024-03-21T12:00:00
 zeroday published advisories = 2024-04-15T05:00:00
 circl twitter feed = 2023-03-30T19:21:07
-msrc security update = 2024-04-01T07:00:00
+msrc security update = 2024-04-19T07:00:00
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
