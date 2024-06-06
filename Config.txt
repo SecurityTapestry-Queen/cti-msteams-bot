@@ -1,12 +1,12 @@
 [Rss]
-graham cluley = 2024-05-31T12:38:05
+graham cluley = 2024-06-06T11:03:17
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2024-05-30T15:19:44
 dark reading = 2027-03-26T22:00:00
 we live security = 2023-07-19T09:30:16
 davinci forensics = 2024-05-23T16:22:19
 cisco = 2024-06-04T15:06:29
-information security magazine = 2024-06-05T16:30:00
+information security magazine = 2024-06-06T11:00:00
 google = 2023-05-26T21:55:00
 trend micro = 2024-06-06T00:00:00
 bleeping computer = 2024-06-05T23:17:28
@@ -34,7 +34,7 @@ eu-enisa publications = 2024-03-14T14:05:01
 att = 2024-06-05T10:00:00
 microsoft sentinel = 2024-05-24T07:54:10
 ncc = 2024-02-22T16:35:43
-sans = 2024-06-06T02:00:02
+sans = 2024-06-06T09:26:14
 version = 2023-05-15T09:31:25
 redcanary = 2024-06-03T14:31:39
 malpedia = 2022-09-20T15:01:28
